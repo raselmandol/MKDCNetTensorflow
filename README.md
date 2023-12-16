@@ -62,6 +62,6 @@ Please cite our work if you use it for your research and find it useful.
 The source code is free for research and education use only. Any comercial use should get formal permission first.
 
 ## 8. Contact
-Tensorflow Conv: [@raselmandol](https://github.com/raselmandol)
+Tensorflow Conv:: [@raselmandol](https://github.com/raselmandol)
 Please contact raselm@duck.com for any questions or qs related to tensorflow model.</br>
 Please contact nikhilroxtomar@gmail.com for any further questions. 
