@@ -63,5 +63,5 @@ The source code is free for research and education use only. Any comercial use s
 
 ## 8. Contact
 Tensorflow Conv:: [@raselmandol](https://github.com/raselmandol)
-Please contact raselm@duck.com for any questions or qs related to tensorflow model.</br>
+Please contact raselm@duck.com for any questions or qs related to tensorflow model.</br></br>
 Please contact nikhilroxtomar@gmail.com for any further questions. 
