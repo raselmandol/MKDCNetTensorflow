@@ -169,6 +169,7 @@ class DecoderBlock(tf.keras.layers.Layer):
         x = self.r2(x)
         return x
 
+#deepSegNet Bl
 class DeepSegNet(tf.keras.Model):
     def __init__(self):
         super(DeepSegNet, self).__init__()
