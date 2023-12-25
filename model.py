@@ -65,6 +65,7 @@ class SpatialAttention(tf.keras.layers.Layer):
         x = self.conv1(x)
         return self.sigmoid(x)
 
+#encoder B
 class Encoder(tf.keras.layers.Layer):
     def __init__(self, ch):
         super(Encoder, self).__init__()
